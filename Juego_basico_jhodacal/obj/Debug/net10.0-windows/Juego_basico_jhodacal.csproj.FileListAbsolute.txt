@@ -1,0 +1,16 @@
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.csproj.GenerateResource.cache
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.AssemblyInfoInputs.cache
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.AssemblyInfo.cs
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.csproj.CoreCompileInputs.cache
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\bin\Debug\net10.0-windows\Juego_basico_jhodacal.exe
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\bin\Debug\net10.0-windows\Juego_basico_jhodacal.deps.json
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\bin\Debug\net10.0-windows\Juego_basico_jhodacal.runtimeconfig.json
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\bin\Debug\net10.0-windows\Juego_basico_jhodacal.dll
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\bin\Debug\net10.0-windows\Juego_basico_jhodacal.pdb
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.Form1.resources
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.dll
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\refint\Juego_basico_jhodacal.dll
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.pdb
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\Juego_basico_jhodacal.genruntimeconfig.cache
+C:\Users\JHODACAL\source\repos\Juego_basico_jhodacal\Juego_basico_jhodacal\obj\Debug\net10.0-windows\ref\Juego_basico_jhodacal.dll
