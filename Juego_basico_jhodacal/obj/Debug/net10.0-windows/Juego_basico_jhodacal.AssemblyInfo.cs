@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Juego_basico_jhodacal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beeb15ddd0b6432daf0f4e55734ce1f208193aea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Juego_basico_jhodacal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Juego_basico_jhodacal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
